@@ -6,7 +6,7 @@
     "url": ""
   },
   "engines": {
-    "node": "*"
+    "node": "~0.4.7"
   },
   "dependencies": {
      "express" : "2.5.8",
